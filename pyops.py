@@ -13,6 +13,6 @@ def multidot (op1,op2):
 
 print ("8 starop 2 == ", star_op (8,2)) # == 18
 print ("3 squiggle 2 == ", squiggle_op (3,2)) # == 31
-print ("2 multidot 2 == ", multidot(2,2)) # == 9
+print ("2 multidot 2 == ", multidot(2,2)) # == 4
 
 print("\n")
