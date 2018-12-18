@@ -9,7 +9,7 @@ def squiggle_op (firstop,secondop):
 	return firstop**3 + secondop**2
 
 def multidot (op1,op2):
-	return	(op1*4)//op1	
+	return	(op1*4)//op2	
 
 print ("8 starop 2 == ", star_op (8,2)) # == 18
 print ("3 squiggle 2 == ", squiggle_op (3,2)) # == 31
